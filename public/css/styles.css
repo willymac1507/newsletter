@@ -60,3 +60,17 @@ body {
 .container-fluid {
     text-align: center;
 }
+
+.logo-text {
+    font-family: 'Alegreya Sans SC', serif;
+    font-size: 1.9rem;
+}
+
+.logo-text-red {
+    color: #a31c1c;
+}
+
+.btn-primary {
+    background-color: #a31c1c;
+    border-color: #a31c1c;
+}
